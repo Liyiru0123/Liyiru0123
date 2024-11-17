@@ -5,6 +5,4 @@
 - 📫 My email: 2617286@dundee.ac.uk
 
 
-Liyiru0123/Liyiru0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
